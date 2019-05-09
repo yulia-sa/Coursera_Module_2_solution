@@ -1,3 +1,3 @@
 # coursera_media_queries
 
-Assignment "media queries" from the coursera course.
+Assignment "media queries" from the Coursera course.
